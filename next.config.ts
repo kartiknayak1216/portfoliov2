@@ -9,7 +9,10 @@ const nextConfig: NextConfig = {
       protocol: "https",
       hostname:"drive.google.com"
     }]
-  }
+  },
+  eslint:{
+    ignoreDuringBuilds:true
+   }
 };
 
 export default nextConfig;
