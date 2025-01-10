@@ -110,4 +110,4 @@ export const Skills = [
 
 ];
 export const GIT_LINK = "https://github.com/kartiknayak1216"
-export const RESUME_LINK = "/"
+export const RESUME_LINK = "https://drive.google.com/file/d/18bACO3ECMKMwFJMbbYiGktTnMZ9kXolV/view?usp=sharing"
